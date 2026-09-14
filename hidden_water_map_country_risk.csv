@@ -1,0 +1,186 @@
+Country,Water_Stress,Agriculture_Withdrawal_Share,Stress_Level,Agriculture_Dependence
+Afghanistan,54.75701944,98.1696273,Severe,High
+Albania,4.789663462,70.89084065,Low,Moderate
+Algeria,144.8149712,67.42997902,Severe,Moderate
+Angola,1.871883289,20.78492491,Low,Low
+Antigua and Barbuda,8.461538462,15.65217391,Low,Low
+Argentina,10.45666408,73.92800424,Low,Moderate
+Armenia,61.97296752,77.47395833,Severe,High
+Australia,4.672295939,66.88583383,Low,Moderate
+Austria,8.676429953,5.23569052,Low,Low
+Azerbaijan,57.52704791,92.24244294,Severe,High
+Bahrain,133.7068966,33.31031308,Severe,Low
+Bangladesh,5.723339482,87.81711737,Low,High
+Barbados,87.5,67.65432099,Severe,Moderate
+Belarus,4.660514173,27.22772277,Low,Low
+Belgium,52.82574225,0.852681365,Severe,Low
+Belize,1.260294485,67.72277228,Low,Moderate
+Benin,0.975243811,25.21367521,Low,Low
+Bhutan,1.413807531,94.08284024,Low,High
+Bolivia (Plurinational State of),0.202979589,87.07838123,Low,High
+Botswana,2.230009819,27.97257339,Low,Low
+Brazil,1.495816821,60.84191934,Low,Moderate
+Brunei Darussalam,3.466465712,5.760869565,Low,Low
+Bulgaria,40.23530092,13.34513986,Stressed,Low
+Burkina Faso,7.820267686,51.43031785,Low,Moderate
+Burundi,10.19286754,79.25740807,Low,High
+Cabo Verde,59.68371,38.99022186,Severe,Low
+Cambodia,1.036544851,94.0018315,Low,High
+Cameroon,1.560430108,67.71407571,Low,Moderate
+Canada,3.720700309,10.69419426,Low,Low
+Central African Republic,0.335648148,0.551724138,Low,Low
+Chad,4.294921875,76.4211005,Low,High
+Chile,8.982121089,90.88662342,Low,High
+China,41.5185288,62.14454059,Stressed,Moderate
+Colombia,3.632281437,82.17445509,Low,High
+Comoros,0.833333333,47.0,Low,Low
+Congo,0.027446301,4.362050164,Low,Low
+Costa Rica,5.881962457,60.71932866,Low,Moderate
+Côte d'Ivoire,5.087565674,51.63511188,Low,Moderate
+Croatia,1.509559804,7.480314961,Low,Low
+Cuba,23.93944607,64.93749102,Low,Moderate
+Cyprus,30.48113723,61.24567474,Stressed,Moderate
+Czechia,21.97384428,3.042876902,Low,Low
+Democratic People's Republic of Korea,27.7404678,76.34733997,Stressed,High
+Democratic Republic of the Congo,0.226883505,10.51784669,Low,Low
+Denmark,25.26636019,54.20741692,Stressed,Moderate
+Djibouti,6.333333333,15.78947368,Low,Low
+Dominica,10.0,5.0,Low,Low
+Dominican Republic,39.55331412,83.31221979,Stressed,High
+Eastern and South-Eastern Asia,30.51470262,72.20539459,Stressed,Moderate
+Ecuador,6.782352941,81.4277072,Low,High
+Egypt,141.1657559,79.16129032,Severe,High
+El Salvador,12.09309202,72.78630208,Low,Moderate
+Equatorial Guinea,0.183503244,5.050505051,Low,Low
+Eritrea,11.17511521,94.50171821,Low,High
+Estonia,13.04628519,0.414783445,Low,Low
+Eswatini,77.55991285,94.19475655,Severe,High
+Ethiopia,32.25718654,91.83644448,Stressed,High
+Europe and Northern America,12.28658974,34.4397509,Low,Low
+Fiji,0.29737303,58.89281508,Low,Moderate
+Finland,7.11406213,35.72602427,Low,Low
+France,21.38462716,10.29637556,Low,Low
+Gabon,0.502166065,28.97196262,Low,Low
+Gambia,2.209656372,38.58267717,Low,Low
+Georgia,4.212964169,33.55239759,Low,Low
+Germany,35.35165707,4.166591548,Stressed,Low
+Ghana,6.314734089,73.0574901,Low,Moderate
+Greece,20.32571313,80.47448878,Low,High
+Grenada,7.05,14.89361702,Low,Low
+Guatemala,5.742097081,56.73716194,Low,Moderate
+Guinea,1.369230769,67.41573034,Low,Moderate
+Guinea-Bissau,1.495726496,75.78947368,Low,High
+Guyana,3.298401827,94.34484668,Low,High
+Haiti,13.38379177,83.37931034,Low,High
+Honduras,4.621268764,73.30429372,Low,Moderate
+Hungary,8.108497409,11.04662266,Low,Low
+Iceland,0.394075282,0.107797341,Low,Low
+India,66.49209283,90.40735874,Severe,High
+Indonesia,29.69654528,85.2067285,Stressed,High
+Iran (Islamic Republic of),81.28908129,92.17577706,Severe,High
+Iraq,59.58384831,73.47020554,Severe,Moderate
+Ireland,8.051010587,2.368798566,Low,Low
+Israel,129.6695712,46.62571977,Severe,Low
+Italy,29.76738039,50.22453321,Stressed,Moderate
+Jamaica,12.38281888,17.06287064,Low,Low
+Japan,36.64367816,66.66666667,Stressed,Moderate
+Jordan,105.2021265,51.64545734,Severe,Moderate
+Kazakhstan,34.62690707,56.74729472,Stressed,Moderate
+Kenya,33.23990107,80.20833333,Stressed,High
+Kuwait,3850.5,62.272,Severe,Moderate
+Kyrgyzstan,50.03895598,92.68929504,Severe,High
+Land Locked Developing Countries,14.62524765,85.05448906,Low,High
+Lao People's Democratic Republic,4.791395046,95.91836735,Low,High
+Latin America and the Caribbean,5.734901902,73.98724909,Low,Moderate
+Latvia,1.015521509,29.07029373,Low,Low
+Least Developed Countries,7.062182815,90.61673589,Low,High
+Lebanon,58.79299156,38.04347826,Severe,Low
+Lesotho,2.565905097,8.675799087,Low,Low
+Liberia,0.264311594,8.430431803,Low,Low
+Libya,817.1428571,83.19039451,Severe,High
+Lithuania,2.165537131,19.55653216,Low,Low
+Luxembourg,3.95854063,1.026392962,Low,Low
+Madagascar,11.26150628,95.89212873,Low,High
+Malawi,17.50483809,85.9375,Low,High
+Malaysia,3.43948718,45.64504373,Low,Low
+Maldives,15.66666667,4.545666102,Low,Low
+Mali,8.00308642,97.85962206,Low,High
+Malta,72.60000792,34.52932513,Severe,Low
+Mauritania,13.24621733,90.57917346,Low,High
+Mauritius,22.97346419,47.86729858,Low,Low
+Mexico,44.94514734,76.30113801,Stressed,High
+Mongolia,3.395007342,54.26038062,Low,Moderate
+Morocco,50.75121202,87.7768191,Severe,High
+Mozambique,1.751486326,73.04820095,Low,Moderate
+Myanmar,5.801501397,88.55573591,Low,High
+Namibia,0.314668328,71.48492106,Low,Moderate
+Nepal,8.311832662,98.13522023,Low,High
+Netherlands (Kingdom of the),16.65850698,3.219295516,Low,Low
+New Zealand,8.04808476,64.94532199,Low,Moderate
+Nicaragua,2.220900209,85.04495457,Low,High
+Niger,11.02093771,91.02310611,Low,High
+Nigeria,9.668217054,44.16833667,Low,Low
+North Macedonia,52.55324298,6.401105227,Severe,Low
+Norway,2.044007605,31.41698056,Low,Low
+Oceania (excluding Australia and New Zealand),0.155408256,10.6918239,Low,Low
+Oman,116.7142857,80.78328982,Severe,High
+Pakistan,109.9932519,93.97656037,Severe,High
+Palestine,48.11011268,35.42600897,Stressed,Low
+Panama,0.90107111,36.82516097,Low,Low
+Papua New Guinea,0.132242833,0.25503698,Low,Low
+Paraguay,1.835399711,78.61583092,Low,High
+Peru,4.82842772,81.45375979,Low,High
+Philippines,27.83151711,74.62601713,Stressed,Moderate
+Poland,32.48528903,13.01933649,Stressed,Low
+Portugal,12.31571228,55.42852604,Low,Moderate
+Puerto Rico,19.53561063,3.466178042,Low,Low
+Qatar,431.0344828,33.30727837,Severe,Low
+Republic of Korea,85.22183304,58.93213204,Severe,Moderate
+Republic of Moldova,12.56311256,6.892230576,Low,Low
+Romania,7.63130793,36.25322046,Low,Low
+Russian Federation,4.122242749,28.75655662,Low,Low
+Rwanda,20.1986755,60.06655574,Low,Moderate
+Saint Kitts and Nevis,50.83333333,1.282051282,Severe,Low
+Saint Lucia,14.3,70.86247086,Low,Moderate
+Saint Vincent and the Grenadines,7.9,0.0,Low,Low
+Sao Tome and Principe,1.876146789,62.59168704,Low,Moderate
+Saudi Arabia,974.1666667,81.56355802,Severe,High
+Senegal,16.2764487,91.31389425,Low,High
+Serbia,5.737631015,8.289137694,Low,Low
+Sierra Leone,0.495794393,21.53628652,Low,Low
+Singapore,33.25522267,0.0,Stressed,Low
+Slovakia,2.425230293,5.828544912,Low,Low
+Slovenia,5.591615957,0.411124547,Low,Low
+Small Island Developing States,3.634053831,62.82885889,Low,Moderate
+Somalia,24.52774059,99.48453608,Low,High
+South Africa,67.59526097,59.39992976,Severe,Moderate
+South Sudan,4.226075787,36.47416413,Low,Low
+Spain,43.25403923,65.33425224,Stressed,Moderate
+Sri Lanka,90.78541374,87.36289201,Severe,High
+Sub-Saharan Africa,6.299102941,74.55042373,Low,Moderate
+Sudan,118.6563877,96.19454242,Severe,High
+Suriname,3.950609365,69.99512908,Low,Moderate
+Sweden,3.582972583,4.932301741,Low,Low
+Switzerland,6.498855835,9.239381348,Low,Low
+Syrian Arab Republic,124.3601389,87.52774397,Severe,High
+Tajikistan,69.94326428,74.52525253,Severe,Moderate
+Thailand,23.01393518,90.37448086,Low,High
+Timor-Leste,28.26821032,91.38225256,Stressed,High
+Togo,3.391634981,34.08071749,Low,Low
+Trinidad and Tobago,20.32648126,4.358037578,Low,Low
+Tunisia,98.11339918,75.54217539,Severe,High
+Türkiye,47.88653346,86.92701174,Stressed,High
+Turkmenistan,135.2138073,92.74870448,Severe,High
+Uganda,5.82799634,40.65934066,Low,Low
+Ukraine,6.298134232,21.1318125,Low,Low
+United Arab Emirates,1509.933333,51.1797143,Severe,Moderate
+United Kingdom of Great Britain and Northern Ireland,14.35464621,14.04988124,Low,Low
+United Republic of Tanzania,12.96324081,89.35185185,Low,High
+United States of America,28.15525982,39.65878143,Stressed,Low
+Uruguay,12.05201437,77.19047446,Low,High
+Uzbekistan,123.0283912,92.13483146,Severe,High
+Venezuela (Bolivarian Republic of),7.540366667,73.85211016,Low,Moderate
+Viet Nam,18.13031538,94.78239668,Low,High
+Yemen,169.7619048,90.74333801,Severe,High
+Zambia,2.835497836,73.28244275,Low,Moderate
+Zimbabwe,46.09162031,87.20018255,Stressed,High
